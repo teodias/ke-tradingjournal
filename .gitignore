@@ -1,0 +1,7 @@
+lib/
+scripts/
+build/
+dist/
+pyvenv.cfg
+ke-tradingjournal.spec
+venv_shell.cmd
